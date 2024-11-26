@@ -37,10 +37,10 @@ This component processes the metadata and dynamically renders the appropriate co
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/metadata-driven-ui-vue3.git
-   cd metadata-driven-ui-vue3
+   git clone git@github.com:Rahulr-dev/metadata-driven-ui.git
+   cd metadata-driven-ui
    npm install
    npm run dev
-   This will start a local development server, and you can view the app in your browser at http://localhost:3000.
+   This will start a local development server, and you can view the app in your browser at http://localhost:5173.
 
 
