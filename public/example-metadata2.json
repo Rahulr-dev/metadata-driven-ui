@@ -1,0 +1,5 @@
+[
+  { "type": "Heading", "props": { "text": "Another Example" } },
+  { "type": "Image", "props": { "src": "/assets/image2.png", "alt": "Image2" , "style": { "width": "20%" }} },
+  { "type": "Button", "props": { "label": "Alert",  "action": "alert" ,"message": "Hello from metadata-driven UI!", "style": { "background-color": "#3572c7" }}}
+]

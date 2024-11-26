@@ -1,0 +1,6 @@
+[
+  { "type": "Heading", "props": { "text": "Welcome to the Metadata-driven UI" } },
+  { "type": "Image", "props": { "src": "/assets/image1.png", "alt": "Image1" ,"style": { "width": "30%"}} },
+  { "type": "Counter", "props": {} },
+  { "type": "Button", "props": { "label": "Increment",  "action": "increment", "style": { "background-color": "#3572c7" } } }
+]
