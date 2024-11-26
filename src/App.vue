@@ -24,7 +24,6 @@ export default {
     async loadExample(exampleNumber) {
       try {
         const response = await axios.get(`/example-metadata${exampleNumber}.json`);
-        console.log('Fetched metadata:', response.data); // Log response data
         this.metadata = response.data; // Update metadata
       } catch (error) {
         console.error('Failed to fetch metadata:', error);
